@@ -12,7 +12,7 @@ const style = {
   width: '100%',
   margin: '0',
   zIndex: '1',
-  borderRadius: '5px'
+  borderRadius: '6px'
 };
 const responsiveSearch = {
   width: '100%',
